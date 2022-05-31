@@ -8,6 +8,7 @@ django = "==2.2"
 pillow = "*"
 
 [dev-packages]
+djlint = "*"
 
 [requires]
 python_version = "3.8"
