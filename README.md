@@ -1,2 +1,8 @@
-# education-platform
-Education platform
+# Education Platform
+
+Образовательная платформа, позволяет пользователям создавать курсы и настраивать их содержимое!
+
+### Технологии
+- Python
+- Django
+- SQLite
